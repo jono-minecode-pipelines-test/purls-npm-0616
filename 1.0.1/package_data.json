@@ -1,0 +1,39 @@
+{
+    "name": "002twoweek",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "\u6b64\u5305\u5f88\u5e05",
+    "_id": "002twoweek@1.0.1",
+    "_npmVersion": "5.3.0",
+    "_nodeVersion": "8.2.1",
+    "_npmUser": {
+        "name": "yanyongqi123456",
+        "email": "731191057@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-HgVUJCse28tR3IfKUz4WNe0yKCsgetHusmHDsdqeqB+Jm8ZqOqoIffGopjs29GPDngsknsuR+BUFPOnQsiQztg==",
+        "shasum": "67bf461b4c0b60a8f579e497d3ab039f06ab8a6e",
+        "tarball": "https://registry.npmjs.org/002twoweek/-/002twoweek-1.0.1.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC0opqZf/AMHCru9XQrYaaZ1b3tRQww4Gl7EhM1SZZGHAIhAPSDQfvuDMXpCRXj8OHI2yfemGZrrg9/gr5IFjv6FgvW"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "yanyongqi123456",
+            "email": "731191057@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/002twoweek-1.0.1.tgz_1504409289808_0.02759149228222668"
+    }
+}

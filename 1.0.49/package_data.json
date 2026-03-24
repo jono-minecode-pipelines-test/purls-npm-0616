@@ -1,0 +1,40 @@
+{
+    "name": "0.draw.io",
+    "version": "1.0.49",
+    "main": "index.js",
+    "license": "MIT",
+    "gitHead": "f0ffd22a6c0a4fd75eb53265bf5883b7cbfc108d",
+    "_id": "0.draw.io@1.0.49",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "lerna/4.0.0/node@v14.16.0+x64 (win32)",
+    "dist": {
+        "integrity": "sha512-U4f9vPLE/rELfMgXplMAKsC/RyXBACP+zDCgJc8t1FIptlzAghcjQCFiidxhZjDpk1JxVJCuj1gXIHYWnlqTsQ==",
+        "shasum": "98188aa4e73b9d7d521c08224a610c702c3851ad",
+        "tarball": "https://registry.npmjs.org/0.draw.io/-/0.draw.io-1.0.49.tgz",
+        "fileCount": 4,
+        "unpackedSize": 18220,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgzetnCRA9TVsSAnZWagAAr7cQAJGJmD+8ygMGtv8brTus\n7xePv1xW8xhgF6xpnhBEfhEACU+iDNZFeDWX0NfUFN050jIolzzS8IeKS/z/\nRBQ5s0eCkuwNXxATTlkPC6kt0+Spydf/Os/fThykUpKHwIgXtrhaldqBaWPj\ng8ifuhau3uKkMFa5Xok2bLT1TIzNkoJEZK47xiTwW++Yl6XmevqH9DE5955b\nzK7X3LTgAV+XleTKyDLC90SVkHDn6o460HJxEvUS1yyf1tRVnJTe2jiEZi6r\nEVZ2UkuVaNqvooe1ARP223xk/L5rGOOVB+hNqXRX9AKAZuWHe3O7GAEZMFqL\nKj1klJRZ32CCwJkkJkoiFbT4tGKZ7Edb6TFk1j/e/cKiJpVu9K6r9Ee28OOG\nbwJwXJxRRTMXBk2OhC0PzcvbfcCJ+u9Hk9IzgQECGF4ZA0XUeYdW7ygW1r6f\nG+vJrnzvYdOYbbFzE0oe83EJbo6mz/D0wkW8amLPc+VUc9zIitN8SRv3dKMO\nxjFiYOlgT2t4bolHpT5A9bqfFHY7d4jevEqy2pSXNn2jFa1K4PMRZ6D22go+\nUZfVyLsaFLajEHoRbwZkTEQKhDdBCWgQtL/AnoBlmkXGxzHLKcJKCvsPe8Jt\nbdJfk+VfevAsLirGoOQZ42XVwvKd+aCnnuAR2coU/qyZEaZL157wRxv/AYAq\n93GK\r\n=YpdG\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCUjwqBD9raKmEST2IBxdBvv43doj9TEO8c8NjE1WHscwIgI1EDqap11NyLyWvEw/wCKGB2ELG3UREgcTUsFPPFUrE="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kitchens",
+        "email": "kitchens@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kitchens",
+            "email": "kitchens@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.draw.io_1.0.49_1624107878888_0.47292310299074813"
+    },
+    "_hasShrinkwrap": false
+}
